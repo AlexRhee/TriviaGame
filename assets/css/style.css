@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-image: url("../images/wallpaper.jpg");
+}
+
+.main {
+    background-color: dodgerblue;
+}
+.body {
+    background-color: darkred;
+    font-weight: bold;
+    color: dodgerblue;
+    font-size: 18px;
+    padding: 20px;
+}
+.container {
+    margin-top: 50px;
+}
+#pic {
+    height: 25%;
+    width: 25%;
+    margin-bottom: 20px;
+}
